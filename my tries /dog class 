@@ -1,0 +1,26 @@
+#include <iostream>
+
+using namespace std;
+
+class Dog{
+    public:
+    
+    string name :
+    string color :
+    int age : 
+
+    void eat(string food1, string food2){
+        cout << name , " is eating " , food1 , "and" , food2 << endl;
+    }
+};
+
+int main (){
+    Dog.dog1:
+    
+    dog1.name = "Mikey";
+    dog1.age = cin << age "what is the age of ", dog1.name <<endl;
+    dog1.color = "blue";
+
+    return 0; 
+    
+}
