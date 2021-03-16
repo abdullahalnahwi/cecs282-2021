@@ -13,9 +13,9 @@ int main()
   int age;
   int birthYear;
   char thisYear;
-  cout << "What is your name?... ";
+  cout << "What is your name? ";
   cin >> name;
-  cout << "How old are you? "<<name<<"? ";
+  cout << "How old are you "<<name<<"? ";
   cin >> age;
   cout << name << ", have you had your birthday yet this year?? (y/n) ";
   cin >> thisYear;
